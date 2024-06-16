@@ -1,5 +1,5 @@
 # Proyecto1
-##Proyecto 1. Programación 1
+## Proyecto 1. Programación 1
 
 Integrantes
 1. Javier Santana Rodríguez
